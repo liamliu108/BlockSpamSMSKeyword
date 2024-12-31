@@ -1,0 +1,2 @@
+# BlockSpamSMSKeyword
+收集了一些比较常用但不是太激进的垃圾短信屏蔽关键词
